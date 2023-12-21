@@ -1,0 +1,15 @@
+C:\Users\pranay\Desktop\DotNet\Practice\pnay\bin\Debug\net8.0\pnay.exe
+C:\Users\pranay\Desktop\DotNet\Practice\pnay\bin\Debug\net8.0\pnay.deps.json
+C:\Users\pranay\Desktop\DotNet\Practice\pnay\bin\Debug\net8.0\pnay.runtimeconfig.json
+C:\Users\pranay\Desktop\DotNet\Practice\pnay\bin\Debug\net8.0\pnay.dll
+C:\Users\pranay\Desktop\DotNet\Practice\pnay\bin\Debug\net8.0\pnay.pdb
+C:\Users\pranay\Desktop\DotNet\Practice\pnay\obj\Debug\net8.0\pnay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pranay\Desktop\DotNet\Practice\pnay\obj\Debug\net8.0\pnay.AssemblyInfoInputs.cache
+C:\Users\pranay\Desktop\DotNet\Practice\pnay\obj\Debug\net8.0\pnay.AssemblyInfo.cs
+C:\Users\pranay\Desktop\DotNet\Practice\pnay\obj\Debug\net8.0\pnay.csproj.CoreCompileInputs.cache
+C:\Users\pranay\Desktop\DotNet\Practice\pnay\obj\Debug\net8.0\pnay.sourcelink.json
+C:\Users\pranay\Desktop\DotNet\Practice\pnay\obj\Debug\net8.0\pnay.dll
+C:\Users\pranay\Desktop\DotNet\Practice\pnay\obj\Debug\net8.0\refint\pnay.dll
+C:\Users\pranay\Desktop\DotNet\Practice\pnay\obj\Debug\net8.0\pnay.pdb
+C:\Users\pranay\Desktop\DotNet\Practice\pnay\obj\Debug\net8.0\pnay.genruntimeconfig.cache
+C:\Users\pranay\Desktop\DotNet\Practice\pnay\obj\Debug\net8.0\ref\pnay.dll

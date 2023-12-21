@@ -10,7 +10,7 @@ Boolean status=false;
 
 char ch='u';
 int count=56;
-count ++;
+count ++;0
 int [] arr={34,76,67,45};
 
 string fullName="Ravi Tambade";
