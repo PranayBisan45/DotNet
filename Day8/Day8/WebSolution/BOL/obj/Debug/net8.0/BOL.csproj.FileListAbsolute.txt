@@ -1,0 +1,22 @@
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BOL\bin\Debug\net8.0\BOL.deps.json
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BOL\bin\Debug\net8.0\BOL.dll
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BOL\bin\Debug\net8.0\BOL.pdb
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BOL\obj\Debug\net8.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BOL\obj\Debug\net8.0\BOL.AssemblyInfoInputs.cache
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BOL\obj\Debug\net8.0\BOL.AssemblyInfo.cs
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BOL\obj\Debug\net8.0\BOL.csproj.CoreCompileInputs.cache
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BOL\obj\Debug\net8.0\BOL.dll
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BOL\obj\Debug\net8.0\refint\BOL.dll
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BOL\obj\Debug\net8.0\BOL.pdb
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BOL\obj\Debug\net8.0\ref\BOL.dll
+\\pun-iet\Assignment Submission Sept 2023\DotNet\Day8\Day8\WebSolution\BOL\bin\Debug\net8.0\BOL.deps.json
+\\pun-iet\Assignment Submission Sept 2023\DotNet\Day8\Day8\WebSolution\BOL\bin\Debug\net8.0\BOL.dll
+\\pun-iet\Assignment Submission Sept 2023\DotNet\Day8\Day8\WebSolution\BOL\bin\Debug\net8.0\BOL.pdb
+\\pun-iet\Assignment Submission Sept 2023\DotNet\Day8\Day8\WebSolution\BOL\obj\Debug\net8.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+\\pun-iet\Assignment Submission Sept 2023\DotNet\Day8\Day8\WebSolution\BOL\obj\Debug\net8.0\BOL.AssemblyInfoInputs.cache
+\\pun-iet\Assignment Submission Sept 2023\DotNet\Day8\Day8\WebSolution\BOL\obj\Debug\net8.0\BOL.AssemblyInfo.cs
+\\pun-iet\Assignment Submission Sept 2023\DotNet\Day8\Day8\WebSolution\BOL\obj\Debug\net8.0\BOL.csproj.CoreCompileInputs.cache
+\\pun-iet\Assignment Submission Sept 2023\DotNet\Day8\Day8\WebSolution\BOL\obj\Debug\net8.0\BOL.dll
+\\pun-iet\Assignment Submission Sept 2023\DotNet\Day8\Day8\WebSolution\BOL\obj\Debug\net8.0\refint\BOL.dll
+\\pun-iet\Assignment Submission Sept 2023\DotNet\Day8\Day8\WebSolution\BOL\obj\Debug\net8.0\BOL.pdb
+\\pun-iet\Assignment Submission Sept 2023\DotNet\Day8\Day8\WebSolution\BOL\obj\Debug\net8.0\ref\BOL.dll

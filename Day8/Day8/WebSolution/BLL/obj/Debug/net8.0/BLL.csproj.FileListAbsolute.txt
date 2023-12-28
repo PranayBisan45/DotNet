@@ -1,0 +1,34 @@
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BLL\bin\Debug\net8.0\BLL.deps.json
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BLL\bin\Debug\net8.0\BLL.dll
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BLL\bin\Debug\net8.0\BLL.pdb
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BLL\bin\Debug\net8.0\BOL.dll
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BLL\bin\Debug\net8.0\DAL.dll
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BLL\bin\Debug\net8.0\BOL.pdb
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BLL\bin\Debug\net8.0\DAL.pdb
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BLL\obj\Debug\net8.0\BLL.csproj.CopyComplete
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BLL\obj\Debug\net8.0\BLL.dll
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BLL\obj\Debug\net8.0\refint\BLL.dll
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BLL\obj\Debug\net8.0\BLL.pdb
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day8\WebSolution\BLL\obj\Debug\net8.0\ref\BLL.dll
+\\pun-iet\Assignment Submission Sept 2023\DotNet\Day8\Day8\WebSolution\BLL\bin\Debug\net8.0\BLL.deps.json
+\\pun-iet\Assignment Submission Sept 2023\DotNet\Day8\Day8\WebSolution\BLL\bin\Debug\net8.0\BLL.dll
+\\pun-iet\Assignment Submission Sept 2023\DotNet\Day8\Day8\WebSolution\BLL\bin\Debug\net8.0\BLL.pdb
+\\pun-iet\Assignment Submission Sept 2023\DotNet\Day8\Day8\WebSolution\BLL\bin\Debug\net8.0\BOL.dll
+\\pun-iet\Assignment Submission Sept 2023\DotNet\Day8\Day8\WebSolution\BLL\bin\Debug\net8.0\DAL.dll
+\\pun-iet\Assignment Submission Sept 2023\DotNet\Day8\Day8\WebSolution\BLL\bin\Debug\net8.0\BOL.pdb
+\\pun-iet\Assignment Submission Sept 2023\DotNet\Day8\Day8\WebSolution\BLL\bin\Debug\net8.0\DAL.pdb
+\\pun-iet\Assignment Submission Sept 2023\DotNet\Day8\Day8\WebSolution\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+\\pun-iet\Assignment Submission Sept 2023\DotNet\Day8\Day8\WebSolution\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+\\pun-iet\Assignment Submission Sept 2023\DotNet\Day8\Day8\WebSolution\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+\\pun-iet\Assignment Submission Sept 2023\DotNet\Day8\Day8\WebSolution\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+\\pun-iet\Assignment Submission Sept 2023\DotNet\Day8\Day8\WebSolution\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+\\pun-iet\Assignment Submission Sept 2023\DotNet\Day8\Day8\WebSolution\BLL\obj\Debug\net8.0\BLL.csproj.CopyComplete
+\\pun-iet\Assignment Submission Sept 2023\DotNet\Day8\Day8\WebSolution\BLL\obj\Debug\net8.0\BLL.dll
+\\pun-iet\Assignment Submission Sept 2023\DotNet\Day8\Day8\WebSolution\BLL\obj\Debug\net8.0\refint\BLL.dll
+\\pun-iet\Assignment Submission Sept 2023\DotNet\Day8\Day8\WebSolution\BLL\obj\Debug\net8.0\BLL.pdb
+\\pun-iet\Assignment Submission Sept 2023\DotNet\Day8\Day8\WebSolution\BLL\obj\Debug\net8.0\ref\BLL.dll
