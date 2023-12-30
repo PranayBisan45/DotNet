@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Registration Page";
+    String msg = ViewData["msg1"] as String;
+}
+
+<div class="text-center">
+    <form method="post">
+        <h1 style="color: aqua;">Registration Page</h1>
+        Id: <input type="number" name="num"><br>
+        Username:<input type="text" name="user"><br>
+        passWord:<input type="text" name="pass"><br>
+        <button type="submit">submit</button>
+    </form>
+    <p>@msg</p>
+</div>

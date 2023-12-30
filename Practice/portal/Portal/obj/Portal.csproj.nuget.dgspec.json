@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IET\\Desktop\\.NET\\Temp DotNet\\Day 9\\Portal\\Portal.csproj": {}
+    "C:\\Users\\pranay\\Desktop\\DotNet\\Practice\\portal\\portal\\Portal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IET\\Desktop\\.NET\\Temp DotNet\\Day 9\\Portal\\Portal.csproj": {
+    "C:\\Users\\pranay\\Desktop\\DotNet\\Practice\\portal\\portal\\Portal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IET\\Desktop\\.NET\\Temp DotNet\\Day 9\\Portal\\Portal.csproj",
+        "projectUniqueName": "C:\\Users\\pranay\\Desktop\\DotNet\\Practice\\portal\\portal\\Portal.csproj",
         "projectName": "Portal",
-        "projectPath": "C:\\Users\\IET\\Desktop\\.NET\\Temp DotNet\\Day 9\\Portal\\Portal.csproj",
-        "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IET\\Desktop\\.NET\\Temp DotNet\\Day 9\\Portal\\obj\\",
+        "projectPath": "C:\\Users\\pranay\\Desktop\\DotNet\\Practice\\portal\\portal\\Portal.csproj",
+        "packagesPath": "C:\\Users\\pranay\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pranay\\Desktop\\DotNet\\Practice\\portal\\portal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\pranay\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
