@@ -11,7 +11,7 @@ public class DBManager
     {
 
         MySqlConnection conn = new MySqlConnection();
-        conn.ConnectionString = @"server=localhost;port=3306;user=root;password=welcome;database=dotnet";
+        conn.ConnectionString = @"server=localhost;port=3306;user=root;password=Pran@1234;database=d4";
 
         String query = "select id from Login where name=@name and password=@pass";
 
@@ -41,7 +41,7 @@ public class DBManager
     {
 
         MySqlConnection conn = new MySqlConnection();
-        conn.ConnectionString = @"server=localhost;port=3306;user=root;password=welcome;database=dotnet";
+        conn.ConnectionString = @"server=localhost;port=3306;user=root;password=Pran@1234;database=d4";
 
         String query = "insert into Login values(@id,@name,@pass)";
         conn.Open();

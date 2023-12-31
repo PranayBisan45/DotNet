@@ -1785,19 +1785,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\IET\\.nuget\\packages\\": {}
+    "C:\\Users\\pranay\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IET\\Desktop\\pgit\\TP\\newweb\\newweb.csproj",
+      "projectUniqueName": "C:\\Users\\pranay\\Desktop\\DotNet\\Practice\\newweb\\newweb.csproj",
       "projectName": "newweb",
-      "projectPath": "C:\\Users\\IET\\Desktop\\pgit\\TP\\newweb\\newweb.csproj",
-      "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IET\\Desktop\\pgit\\TP\\newweb\\obj\\",
+      "projectPath": "C:\\Users\\pranay\\Desktop\\DotNet\\Practice\\newweb\\newweb.csproj",
+      "packagesPath": "C:\\Users\\pranay\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pranay\\Desktop\\DotNet\\Practice\\newweb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\pranay\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
