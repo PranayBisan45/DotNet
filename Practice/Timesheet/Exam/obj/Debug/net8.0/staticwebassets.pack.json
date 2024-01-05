@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\pranay\\Desktop\\DotNet\\Practice\\Timesheet\\Exam\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Exam.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Exam.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\pranay\\Desktop\\DotNet\\Practice\\Timesheet\\Exam\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\pranay\\Desktop\\DotNet\\Practice\\Timesheet\\Exam\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\pranay\\Desktop\\DotNet\\Practice\\Timesheet\\Exam\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\pranay\\Desktop\\DotNet\\Practice\\Timesheet\\Exam\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\pranay\\Desktop\\DotNet\\Practice\\Timesheet\\Exam\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\pranay\\Desktop\\DotNet\\Practice\\Timesheet\\Exam\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\pranay\\Desktop\\DotNet\\Practice\\Timesheet\\Exam\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pranay\\Desktop\\DotNet\\Practice\\Timesheet\\Exam\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\pranay\\Desktop\\DotNet\\Practice\\Timesheet\\Exam\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Exam.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Exam.props",
+      "PackagePath": "build\\Exam.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Exam.props",
+      "PackagePath": "buildMultiTargeting\\Exam.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Exam.props",
+      "PackagePath": "buildTransitive\\Exam.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
