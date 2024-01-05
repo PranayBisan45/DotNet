@@ -2,20 +2,20 @@ namespace Model;
 
 public class Student{
     public int roll{get;set;}
-    public string firstName{get;set;}
-    public string lasstName{get;set;}
+    public string nameFirst{get;set;}
+    public string nameLast{get;set;}
 
     public Student()
     {
         roll=0;
-        firstName=null;
-        lasstName=null;
+        nameFirst=null;
+        nameLast=null;
     }
 
-    public Student(int roll,String firstName,String lasstName) 
+    public Student(int roll,String nameFirst,String nameLast) 
     {
         this.roll=roll;
-        this.firstName=firstName;
-        this.lasstName=lasstName;
+        this.nameFirst=nameFirst;
+        this.nameLast=nameLast;
     }
 }

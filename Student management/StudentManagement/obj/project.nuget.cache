@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rYH8X8HLmra0oxdvh1EC0LqcSvSIZV1cNo/qWrYCfWfXvOlP1fVB5bm3qeoxUZuc9lCFYWz7MKV6qpb8y0l6ug==",
+  "dgSpecHash": "Vflz2+MNJag60uoMVPqLq/50d5Ice6FLO18vuePvQeYjihWkJpDtj4Mrnb+BtnstSlgLk42maceo6RIvOK4Q7Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pranay\\Desktop\\Student management\\StudentManagement\\StudentManagement.csproj",
+  "projectFilePath": "C:\\Users\\pranay\\Desktop\\DotNet\\Student management\\StudentManagement\\StudentManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pranay\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\pranay\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",

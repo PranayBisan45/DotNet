@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pranay\\Desktop\\Student management\\StudentManagement\\StudentManagement.csproj": {}
+    "C:\\Users\\pranay\\Desktop\\DotNet\\Student management\\StudentManagement\\StudentManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pranay\\Desktop\\Student management\\StudentManagement\\StudentManagement.csproj": {
+    "C:\\Users\\pranay\\Desktop\\DotNet\\Student management\\StudentManagement\\StudentManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pranay\\Desktop\\Student management\\StudentManagement\\StudentManagement.csproj",
+        "projectUniqueName": "C:\\Users\\pranay\\Desktop\\DotNet\\Student management\\StudentManagement\\StudentManagement.csproj",
         "projectName": "StudentManagement",
-        "projectPath": "C:\\Users\\pranay\\Desktop\\Student management\\StudentManagement\\StudentManagement.csproj",
+        "projectPath": "C:\\Users\\pranay\\Desktop\\DotNet\\Student management\\StudentManagement\\StudentManagement.csproj",
         "packagesPath": "C:\\Users\\pranay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pranay\\Desktop\\Student management\\StudentManagement\\obj\\",
+        "outputPath": "C:\\Users\\pranay\\Desktop\\DotNet\\Student management\\StudentManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pranay\\AppData\\Roaming\\NuGet\\NuGet.Config"

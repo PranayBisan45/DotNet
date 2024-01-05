@@ -1,0 +1,27 @@
+@using BOL;
+@{
+    Student s=new Student();
+    s=ViewData["singleData"] as Student;
+}
+<div align="center" border="3px">
+<form Method="Post" >
+id
+<br>
+<input type ="text" name="id" value="@s.id"  >
+<br>
+namefirst
+<br>
+<input type="text" name="namefirst" value="@s.namefirst">
+<br>
+namelast
+<br>
+<input type="text" name="namelast" value="@s.namelast">
+<br>
+email
+<br>
+<input type="text" name="email" value="@s.email">
+<br>
+<button type="submit">Update</button>
+<br>
+</form>
+</div>

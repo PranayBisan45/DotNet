@@ -1785,19 +1785,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\IET\\.nuget\\packages\\": {}
+    "C:\\Users\\pranay\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IET\\Desktop\\dgit\\DotNet\\Day5\\DBSolution\\DBApp\\DBApp.csproj",
+      "projectUniqueName": "C:\\Users\\pranay\\Desktop\\DotNet\\Practice\\DBSolution\\DBApp\\DBApp.csproj",
       "projectName": "DBApp",
-      "projectPath": "C:\\Users\\IET\\Desktop\\dgit\\DotNet\\Day5\\DBSolution\\DBApp\\DBApp.csproj",
-      "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IET\\Desktop\\dgit\\DotNet\\Day5\\DBSolution\\DBApp\\obj\\",
+      "projectPath": "C:\\Users\\pranay\\Desktop\\DotNet\\Practice\\DBSolution\\DBApp\\DBApp.csproj",
+      "packagesPath": "C:\\Users\\pranay\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pranay\\Desktop\\DotNet\\Practice\\DBSolution\\DBApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\pranay\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"

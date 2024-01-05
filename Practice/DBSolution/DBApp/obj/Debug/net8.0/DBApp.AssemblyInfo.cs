@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DBApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7472d98b1f20b3a3321c37a69a64e4cfffdc66e4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22a594f9fee4cbbbaba63dd6c6233947d9401a1d")]
 [assembly: System.Reflection.AssemblyProductAttribute("DBApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DBApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

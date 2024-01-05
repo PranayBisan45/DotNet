@@ -2234,19 +2234,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\IET\\.nuget\\packages\\": {}
+    "C:\\Users\\pranay\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IET\\Desktop\\.NET\\Temp DotNet\\web\\WebAPOI\\WebAPOI.csproj",
+      "projectUniqueName": "C:\\Users\\pranay\\Desktop\\DotNet\\Practice\\WebAPOI\\WebAPOI.csproj",
       "projectName": "WebAPOI",
-      "projectPath": "C:\\Users\\IET\\Desktop\\.NET\\Temp DotNet\\web\\WebAPOI\\WebAPOI.csproj",
-      "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IET\\Desktop\\.NET\\Temp DotNet\\web\\WebAPOI\\obj\\",
+      "projectPath": "C:\\Users\\pranay\\Desktop\\DotNet\\Practice\\WebAPOI\\WebAPOI.csproj",
+      "packagesPath": "C:\\Users\\pranay\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pranay\\Desktop\\DotNet\\Practice\\WebAPOI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\pranay\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"

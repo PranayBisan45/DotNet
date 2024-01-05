@@ -1,7 +1,9 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using StudentManagement.Models;
-
+using DAL;
+using Model;
+using BLL;
 namespace StudentManagement.Controllers;
 
 public class HomeController : Controller
@@ -28,11 +30,24 @@ public class HomeController : Controller
     }
 
     [HttpPost]
-    public IActionResult Insert()
+    public IActionResult Insert(int roll,string nameFirst,string nameLast)
     {
+      
+        bool flag = DBManager.addStudent(roll,nameFirst,nameLast);
+        if(flag)
+        {
+            return RedirectToAction("Privacy");
+        }
         return View();
     }
 
+    public IActionResult List()
+    {
+        List<Student> list =new List<Student>();
+        list = catalogMaanager.getAll();
+        ViewData["Data"]=list;
+        return View();
+    }
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
     {
